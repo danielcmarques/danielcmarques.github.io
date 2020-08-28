@@ -12,7 +12,7 @@ Welcome! I am Daniel, an MS candidate at the University of San Diego Cybersecuri
 
 My research interests
 ======
-I have researched the topics of web application security and password cracking, but my current focus is threat emulation. Other topics of interest include:
+I have researched the topics of Public Key Infrastructures (PKI), web application security, and password cracking. My current focus is threat emulation. Other topics of interest include:
 * Vulnerabilities in smart devices
 * Reverse engineering
 * Mobile application security   
