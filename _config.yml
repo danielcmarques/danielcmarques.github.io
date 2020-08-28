@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel C. Marques"
-  avatar           : "images/bio-photo.png"
+  avatar           : "bio-photo.png"
   bio              : "MS candidate @ University of San Diego."
   location         : "USA"
   employer         :
