@@ -7,6 +7,4 @@ venue: "OWASP Rio de Janeiro Chapter February 2014 Meeting"
 date: 2014-02-01
 location: "Rio de Janeiro, Brazil"
 ---
-<i>Original title: "XSS: Esqueça o alert e vá para mundo real". Available in Brazilian Portuguese</i>
-
-This talk demonstrates how attackers could leverage Cross-site scripting (XSS) vulnerabilities in real-world attacks. Examples included using Javascript to modify forms, gain control of a browser tab, and remote delivering payloads using Java applets.
+<i>Original title: "XSS: Esqueça o alert e vá para mundo real". Available in Brazilian Portuguese.</i> This talk demonstrates how attackers could leverage Cross-site scripting (XSS) vulnerabilities in real-world attacks. Examples included using Javascript to modify forms, gain control of a browser tab, and remote delivering payloads using Java applets.
