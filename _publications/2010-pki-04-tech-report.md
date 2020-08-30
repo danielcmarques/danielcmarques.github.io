@@ -1,5 +1,5 @@
 ---
-title: "Towards a mapping between digital certification and information security standards, and the RFC 3647"
+title: "Mapping between digital certification and information security standards, and the RFC 3647"
 collection: publications
 permalink: /publication/2010-pki-04-tech-report
 excerpt: 'Original title: Mapeamento entre padrões de certificação digital e Segurança da Informação e a RFC 3647. Available in Brazilian Portuguese.'

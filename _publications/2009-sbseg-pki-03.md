@@ -1,5 +1,5 @@
 ---
-title: "Towards a set of requirements for Certificate Policies and Certification Practice Statements"
+title: "A set of requirements for Certificate Policies and Certification Practice Statements"
 collection: publications
 permalink: /publication/2009-sbseg-pki-03
 excerpt: 'Original title: Um conjunto de requisitos para políticas de certificado e declarações de práticas de certificação. Available in Brazilian Portuguese.'
