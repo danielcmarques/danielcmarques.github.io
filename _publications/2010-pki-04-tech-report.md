@@ -2,7 +2,7 @@
 title: "Mapping between digital certification and information security standards, and the RFC 3647"
 collection: publications
 permalink: /publication/2010-pki-04-tech-report
-excerpt: 'Original title: Mapeamento entre padrões de certificação digital e Segurança da Informação e a RFC 3647. Available in Brazilian Portuguese.'
+excerpt: 'This work proposes a mapping between information security and digital certification standards and the essential framework used to develop these CP/CPS documents, the RFC 3647, to facilitate establishing a trust relationship between the elements of a Public Key Infrastructure in a transitive manner. <i>Original title: Mapeamento entre padrões de certificação digital e Segurança da Informação e a RFC 3647.</i>'
 date: 2010-07-09
 venue: 'Universidade Federal Fluminense (UFF)'
 paperurl: 'http://danielcmarques.github.io/files/2010-pki-techreport.pdf'
