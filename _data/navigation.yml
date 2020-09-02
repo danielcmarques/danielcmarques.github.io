@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: https://www.linkedin.com/in/danielcmarques/
 
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Responsibly disclosed vulnerabilities"
+    url: /advisories/
 
   - title: "Contact me"
     url: /contact/
