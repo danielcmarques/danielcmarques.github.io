@@ -190,6 +190,9 @@ collections:
   advisories:
     output: true
     permalink: /:collection/:path/
+  references:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
