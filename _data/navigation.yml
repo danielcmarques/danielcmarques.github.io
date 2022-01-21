@@ -9,7 +9,7 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
 
-  - title: "Portfolio"
+  - title: "CSOL Coursework"
     url: /portfolio/
 
   # - title: "Blog Posts"
@@ -20,6 +20,9 @@ main:
 
   - title: "Responsibly disclosed vulnerabilities"
     url: /advisories/
+
+  - title: "Cybersecurity References"
+    url: /references/
 
   - title: "Contact me"
     url: /contact/
