@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cybersecurity References"
-permalink: /advisories/
+permalink: /references/
 author_profile: true
 ---
 
