@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Cybersecurity References"
 permalink: /advisories/
 author_profile: true
