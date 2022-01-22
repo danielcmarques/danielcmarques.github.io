@@ -1,28 +1,28 @@
 # main links links
 main:
+  - title: "CSOL Coursework"
+    url: /portfolio/
+
+  - title: "Reference Link Library"
+    url: /references/
+
+  - title: "CV"
+    url: https://www.linkedin.com/in/danielcmarques/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/
 
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Responsibly disclosed vulnerabilities"
+    url: /advisories/
 
-  - title: "CSOL Coursework"
-    url: /portfolio/
+  - title: "Contact me"
+    url: /contact/
 
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  - title: "CV"
-    url: https://www.linkedin.com/in/danielcmarques/
-
-  - title: "Responsibly disclosed vulnerabilities"
-    url: /advisories/
-
-  - title: "Reference Link Library"
-    url: /references/
-
-  - title: "Contact me"
-    url: /contact/
+  # - title: "Teaching"
+  #   url: /teaching/
