@@ -20,14 +20,16 @@ CSO (also known as CSO Online) offers content tailored to cybersecurity leaders,
 Dark Reading is a popular new site and online community for security professionals, offering insights from leading security researchers and CISOs. It provides an independent view on recent attacks, threat intelligence, cloud security, vulnerabilities, and others.
 
 ### [Internet Storm Center](https://isc.sans.edu/)
-The Internet Storm Center (ISC) is a free service maintained by the SANS Institute that monitors malicious activity on the Internet by gathering data from millions of intrusion detection sensors. The ISC analysts frequently share insights on how threats operate, along with details procedures to reverse engineer and analyze artifacts.
+The Internet Storm Center (ISC) is a free service maintained by the SANS Institute that monitors malicious activity on the Internet by gathering data from millions of intrusion detection sensors. The ISC analysts frequently share insights on how threats operate with detailed procedures to reverse engineer and analyze artifacts.
 
-### [Kaspersky SecureList](https://securelist.com/)
-### [Microsoft Security](https://www.microsoft.com/security/blog/product/windows/)
+### [SecureList by Kaspersky](https://securelist.com/)
+SecureList is a blog with Kaspersky's latest threat intelligence reports and APT analysis. It is a valuable source of information providing details on how threats operate and how to detect them. SecureList is not restricted to the U. S.; it offers insights into malicious actors from many parts of the world.
+
 ### [OWASP Foundation](https://owasp.org/)
-### [SANS Reading Room](https://www.sans.org/white-papers/)
-### [VirusTotal](https://www.virustotal.com/gui/home/upload)
+The Open Web Application Security Project (OWASP) has served the cybersecurity community for almost two decades, providing tools, training, and community-driven practices to secure software. OWASP is well known for their [OWASP Top 10](https://owasp.org/www-project-top-ten/) project, a list maintained to raise awareness of common web application security risks.
 
+### [SANS Reading Room](https://www.sans.org/white-papers/)
+The SANS Reading Room hosts a plethora of peer-reviewed cybersecurity papers covering a range of cybersecurity topics, from cloud security to security awareness.    
 
 ## Government Resources
 ### [Cybersecurity and Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
@@ -81,12 +83,16 @@ Offensive Security (OffSec) offers training and certification focused on penetra
 
 ### [BlackHat USA](https://www.blackhat.com/)
 
+### [BSides Las Vegas](https://www.bsideslv.org)
+
+### [BSides San Diego](https://www.bsidessd.org)
+
 ### [DEF CON](https://defcon.org/)
+
+### [(ISC)<sup>2</sup> Security Congress](https://congress.isc2.org)
 
 ### [RSA Conference](https://www.rsaconference.com/en)
 
-### [Shmoocon](https://www.shmoocon.org/)
-###
 
 ## Books
 * Axelrod, C. (2012). _Engineering safe and secure software systems_ (1st ed.). Norwood, MA: Artech House. ISBN-13: 978-1608074723
