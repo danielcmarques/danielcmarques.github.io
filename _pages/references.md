@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Cybersecurity References"
+title: "Reference Link Library"
 permalink: /references/
 author_profile: true
 ---
