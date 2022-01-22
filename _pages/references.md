@@ -38,7 +38,6 @@ The SANS Reading Room hosts a plethora of peer-reviewed cybersecurity papers cov
 ### [NIST Cybersecurity](https://www.nist.gov/cybersecurity)
 ### [US-Cert](https://www.cisa.gov/uscert/)
 
-
 ## Blogs and Opinions
 ### [Daniel Miessler](https://danielmiessler.com/)
 ### [Errata Security](https://blog.erratasec.com/)
@@ -49,8 +48,6 @@ The SANS Reading Room hosts a plethora of peer-reviewed cybersecurity papers cov
 ### [Security Weekly](https://securityweekly.com/)
 ### [ThreatPost](https://threatpost.com/)
 ### [Troy Hunt](https://www.troyhunt.com/)
-
-
 
 ## Tools and Repositories
 ### [Burp Suite](https://portswigger.net/burp)
