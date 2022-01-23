@@ -6,11 +6,11 @@ collection: portfolio
 
 Work In progress.
 
-## Reflections
-
+## Selected Course Work
 Work In progress.
 
-## Selected Course Work
+## Reflections
+
 Work In progress.
 
 ## References  
