@@ -77,11 +77,13 @@ Nmap is an open-source network scanning tool widely used in the cybersecurity in
 Semgrep is a static analysis tool widely used to perform code reviews. Semgrep leverages community-created rules to identify issues affecting code written in many languages, including Java, C, Python, Go, and Ruby.
 
 ### [WebGoat](https://owasp.org/www-project-webgoat/)
-Webgoat is an insecure web application design to raise awareness on common vulnerabilities. Aside from training ground, Webgoat can also serve as a test target to benchmark tools.  
+Webgoat is an insecure web application designed to raise awareness of common vulnerabilities. Aside from training ground, it can also serve as a test target to benchmark tools.
 
 ### [Wireshark](https://www.wireshark.org/)
-### [Yara](https://virustotal.github.io/yara/)
+Wireshark is a popular network protocol analyzer that helps cybersecurity professionals to monitor traffic, inspect its contents to identify anomalies and vulnerabilities.
 
+### [Zabbix](https://www.zabbix.com/)
+Zabbix is an open-source network and application monitoring solution that allows users to keep track of many metrics in almost real-time. Zabbix is extensible through its API, providing users with the ability to automate tasks and integrate third-party software.
 
 ## Certification and Training
 Coursera published a [relevant article about Cybersecurity certifications](https://www.coursera.org/articles/popular-cybersecurity-certifications) that lists primary options for many career paths and the associated investment. The following is a non-exhaustive list of major training and certification providers:
