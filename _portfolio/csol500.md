@@ -1,6 +1,6 @@
 ---
 title: "CSOL 500 - Foundations Of Cyber Security"
-excerpt: "Coming soon"
+excerpt: "This course explored essential cyber security concepts, including policies, enforcement mechanisms, security assurance, and a taxonomy of modern cyber and software engineering terms. Its primary goal was to establish a foundational understanding of how leaders can enhance, support, and promote cyber security in organizations."
 collection: portfolio
 ---
 
@@ -20,4 +20,16 @@ The final project scenario presents a large Information Technology company wishi
 Work In progress.
 
 ## References  
-Work In progress.
+Microsoft. (n.d.). _Zero trust maturity model_. Microsoft Security. Retrieved October 25, 2020, from https://www.microsoft.com/en-us/security/business/zero-trust
+
+National Institute of Standards and Technology. (2018). _Framework for improving critical infrastructure cybersecurity_ (version 1.1). U. S. Department of Commerce. https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04162018.pdf
+
+National Institute of Standards and Technology. (2020). _Security and privacy controls for information systems and organizations_ (Special Publication 800-53). U.S. Department of Commerce. https://doi.org/10.6028/NIST.SP.800-53r5
+
+Parker, D. (2014). _Toward a new framework for information security_. In S. Bosworth, M. E. Kabay, & E. Whyne (Eds.), Computer Security Handbook (6th ed., 3.1-3.23). John Wiley & Sons, Inc.
+
+_Windows kernel-mode security reference monitor_. (2018, October 17). Microsoft Docs. Retrieved October 3, 2020, from [https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/windows-kernel-mode-security-reference-monitor](https://docs.microsoft.com/en-us/windows-hardware/drivers/kernel/windows-kernel-mode-security-reference-monitor)
+
+_Windows security model for driver developers_. (2018, February 1). Microsoft Docs. Retrieved October 4, 2020, from https://docs.microsoft.com/en-us/windows-hardware/drivers/driversecurity/windows-security-model
+
+Yosifovich, P., Ionescu, A., Russinovich, M., & Solomon, D. (2017). _Windows Internals, Part 1: System architecture, processes, threads, memory management, and more_ (Seventh ed.). Microsoft Press.
