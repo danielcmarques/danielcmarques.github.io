@@ -24,7 +24,8 @@ Business drivers are a vital part of this layer: they serve as initial input to 
 
 * _[Target Corporation: A business risk model based on the 2013 data breach](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.Business_Risk_Model.Daniel_Cordeiro_Marques.pdf)_
 
-**Note:** This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives.{: .notice}
+**Note:** This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives.
+{: .notice}
 
 ### Conceptual Security Architecture: The Architect's View
 The architect leverages the contextual layer requirements in the conceptual layer to develop the security architecture’s directions and attributes. This layer defines what the architecture is trying to protect, and the associated risks; the control objectives, and why is it essential to preserve those attributes; how the security approach translates to strategies aligned with business requirements; who will be involved in protecting the assets; the conceptual boundaries and relationships, and where security will be applied; and the time-related performance targets for security attributes, such as lifetimes and deadlines.  With the security strategy established, designers can define security architecture’s logical abstraction and identify the elements that support the plan.
@@ -33,7 +34,8 @@ In the conceptual security architecture proposed by Sherwood et al. (2005), secu
 
 * _[Target Corporation: Control objectives and mock security strategy](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.Control_Objectives_And_Mock_Security_Strategy.Daniel_Cordeiro_Marques.pdf)_
 
-**Note:** This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives.{: .notice}
+**Note:** This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives.
+{: .notice}
 
 ### Logical Security Architecture: The Designer's View
 The logical layer uses the conceptual layer’s principles to identify security components and their relationship, representing the previous layer’s strategies. This layer defines what business information the security controls will protect; the security policy requirements; the security services, and how they combine to become a system that supports the business goals; the entities that participate in the security process, their roles and relationships; the security domains and their boundaries; and the security processing cycle (Sherwood et al., 2005, p. 38). Next, the architect must translate the abstractions into a model that realizes the security concept.
@@ -42,7 +44,8 @@ To illustrate my understanding of the Logical Security Architecture, I developed
 
 * _[Logical Security Architecture (Designer’s view): Equifax case study](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.FinalProject.Daniel_Cordeiro_Marques.pdf)_
 
-**Note:** This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives.{: .notice}
+**Note:** This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives.
+{: .notice}
 
 ### Physical Security Architecture: The Builder's View
 The physical layer takes the logical layer’s abstractions and transforms them into a technological model that physically expresses the security requirements. This layer deals with security data model and structures; procedures to security guide decision-making; security mechanisms and the servers that support them; who is responsible for security functions and what they use to perform them; the physical technology supporting security functions; and processing schedule. With a complex environment likely using multiple technologies to address different needs, the security architect must address how components interact with one another.
