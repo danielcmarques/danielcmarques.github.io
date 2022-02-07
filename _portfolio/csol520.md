@@ -16,7 +16,7 @@ The contextual layer’s primary function is to help the architect to understand
 
 Business drivers are a vital part of this layer: they serve as initial input to establish Business Attributes and, consequently, the Business Risk Model. Leveraging the Business Risk Model, the security practitioner can, for instance, establish control objectives aligned to the business goals. To illustrate this concept, I wrote a paper that uses the methodology described by Sherwood et al. (2005) to create an example Business Risk Model for Target leveraging publicly available information to derive business drivers, requirements and impact, and potential vulnerabilities.
 
-#### Paper: [Target Corporation: A business risk model based on the 2013 data breach](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.Business_Risk_Model.Daniel_Cordeiro_Marques.pdf)
+**Paper:** [Target Corporation: A business risk model based on the 2013 data breach](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.Business_Risk_Model.Daniel_Cordeiro_Marques.pdf)
 _Note: This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives._
 
 ### Conceptual Security Architecture: The Architect's View
@@ -24,7 +24,7 @@ The architect leverages the contextual layer requirements in the conceptual laye
 
 In the conceptual security architecture proposed by Sherwood et al. (2005), security practitioners can derive an overall security strategy using the contextual layer’s business information. Leveraging the business attribute profiles as a starting point, the security practitioner can define control objectives to mitigate the business risks. TO demonstrate this concept, I applied the SABSA conceptual security architecture to develop a mock security strategy that addresses the risks outlined in my previous paper.
 
-#### Paper: [Target Corporation: Control objectives and mock security strategy](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.Control_Objectives_And_Mock_Security_Strategy.Daniel_Cordeiro_Marques.pdf)
+**Paper:** [Target Corporation: Control objectives and mock security strategy](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.Control_Objectives_And_Mock_Security_Strategy.Daniel_Cordeiro_Marques.pdf)
 _Note: This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives._
 
 ### Logical Security Architecture: The Designer's View
@@ -32,7 +32,7 @@ The logical layer uses the conceptual layer’s principles to identify security 
 
 To illustrate my understanding of the Logical Security Architecture, I developed a paper that describes a mock logical architecture for Equifax, based on the SABSA framework and publicly available information. Specifically, the work leverages Equifax’s 2019 annual report to establish risks and business drivers and the U. S. Government Accountability Office (GAO)’s report to derive a gap analysis.
 
-#### Paper: [Logical Security Architecture (Designer’s view): Equifax case study](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.FinalProject.Daniel_Cordeiro_Marques.pdf)
+**Paper:** [Logical Security Architecture (Designer’s view): Equifax case study](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.FinalProject.Daniel_Cordeiro_Marques.pdf)
 _Note: This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives._
 
 ### Physical Security Architecture: The Builder's View
