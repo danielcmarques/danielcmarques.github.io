@@ -48,10 +48,18 @@ To illustrate my understanding of the Logical Security Architecture, I developed
 {: .notice}
 
 ### Physical Security Architecture: The Builder's View
-The physical layer takes the logical layer’s abstractions and transforms them into a technological model that physically expresses the security requirements. This layer deals with security data model and structures; procedures to security guide decision-making; security mechanisms and the servers that support them; who is responsible for security functions and what they use to perform them; the physical technology supporting security functions; and processing schedule. With a complex environment likely using multiple technologies to address different needs, the security architect must address how components interact with one another.
+The physical layer takes the logical layer’s abstractions and transforms them into a technological model that physically expresses the security requirements. As a business enabler, a robust security strategy plays a critical role in offering mechanisms that allow essential business services to continue operating if an incident occurs. Businesses continue to rely heavily on technology to achieve their goals; therefore, as Sherwood et al. (2005) propose, “physical network and platform infrastructure should be built in resilient configurations to incorporate a degree of fault tolerance” (p. 364). A resilient design must focus on the criticality of assets while considering cost-effectively strategies to withstand a security event.
+
+Architects should consider three design principles to create a resilient strategy: avoidance of single points of failure, redundancy of hard physical components, and recovery procedures. Yet, these can quickly become costly initiatives; an architect can address this potential risk by considering two factors while prioritizing solutions: focus on critical assets and manageability of the process.
+
+Finally, network and platform resilience approaches can cover different aspects of a robust design. However, two elements are common to all strategies: diversity of resources supporting mission-critical functionality and testing and monitoring supporting features. The architect must not rely solely on the plan; the security team must regularly test and improve processes and procedures to ensure they work as expected and align with the latest threats.  
+
+This layer deals with security data model and structures; procedures to security guide decision-making; security mechanisms and the servers that support them; who is responsible for security functions and what they use to perform them; the physical technology supporting security functions; and processing schedule. With a complex environment likely using multiple technologies to address different needs, the security architect must address how components interact with one another.
 
 ### Component Security Architecture: The Tradesman's View
-The component layer covers integrating the products defined in the physical layer, assuring they work cohesively and as intended. This layer is concerned with detailed data structures, security standards, delivery tools and processes, users’ identities, privileges, roles and responsibilities, computer addresses, and process execution order and timing. Finally, security must consider day-to-day operations and ensure that all functions are performed as expected and according to the plan.
+The component layer covers integrating the products defined in the physical layer, assuring they work cohesively and as intended. Many different functions must operate together to fulfill business requirements and achieve the company’s goals; consequently, business functions and their needs call for various security components to support their objectives. To address that, Sherwood et al. (2005, p. 281) propose that standards provide the mechanisms to integrate the different components into a system. Due to the high cost and complexity of implementation, companies may choose to move away from using such standards. However, reducing the scope to controls and assets focused on business requirements can mitigate these risks and allow organizations to reap the benefits that positively impact business operations and brand awareness.  
+
+This layer is concerned with detailed data structures, security standards, delivery tools and processes, users’ identities, privileges, roles and responsibilities, computer addresses, and process execution order and timing. Finally, security must consider day-to-day operations and ensure that all functions are performed as expected and according to the plan.
 
 ### Operational Security Architecture: The Facilities Manager’s View
 This layer is concerned with ensuring operational continuity, minimizing failures and disruptions, providing security services, user support and access provisioning, managing the environment, and scheduling and executing security functions according to the timetable. The operational layer runs across all other layers, and its focus is to keep the security functions in working order.
@@ -63,8 +71,12 @@ WIP.
 ## References  
 Bacik, S. (2008). _Building an effective information security policy architecture_. CRC Press.
 
+Bodeau, D., & Graubart, R. (2017). _Cyber resiliency design principles_. The MITRE Corporation. [https://www.mitre.org/publications/technical-papers/cyber-resiliency-design-principles](https://www.mitre.org/publications/technical-papers/cyber-resiliency-design-principles)
+
 National Institute of Standards and Technology. (2003). _Guide to Information Technology Security Services_ [Special Publication 800-35]. U. S. Department of Commerce. [https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-35.pdf](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-35.pdf)
 
 Rose, S., Borchert, O., Mitchell, S., & Connelly, S. (2020). _Zero Trust Architecture_ [Special Publication 800-207]. National Institute of Standards and Technology.[https://doi.org/10.6028/NIST.SP.800-207](https://doi.org/10.6028/NIST.SP.800-207)
+
+Ross, R., Pillitteri, V., Graubart, R., Bodeau, D., & Mcquaid, R. (2019). _Developing cyber resilient systems: A systems security engineering approach_ [NIST SP 800-160] (Vol. 2). National Institute of Standards and Technology. [https://doi.org/10.6028/NIST.SP.800-160v2](https://doi.org/10.6028/NIST.SP.800-160v2)
 
 Sherwood, J., Clark, A., & Lynas, D. (2005). _Enterprise security architecture: A Business-driven approach_. CRC Press.
