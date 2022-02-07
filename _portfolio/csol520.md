@@ -12,8 +12,10 @@ The complexity derived from defending a corporate environment while supporting b
 The SABSA architecture model consists of six layers, each approaching security from a different perspective (figure 1).
 
 **Figure 1.**
+
 _The SABSA® Model for Security Architecture Development (Sherwood et al., 2005)._
-<img src='/images/sabsa_model.png'>
+
+<img src='/images/sabsa_model.png' width="60%" height="60%">
 
 ### Contextual Security Architecture: The Business View
 The contextual layer’s primary function is to help the architect to understand business requirements that will drive the effective design that aligns with the business goals. This layer considers what assets are essential to the business and must be protected; why the company should cover these assets, and the objectives that will drive the security strategy; how the business operates, and which process will require security considerations; who is involved in the business operation, such as organizational structures and third parties; where is the business operating, and associated security aspects such as geographically dispersed offices and local laws; and the time requirements for security, including deadlines and time-to-market. Once the architects enumerate and understand the business requirements and context of security controls, they can create the overall security philosophy.
@@ -21,6 +23,7 @@ The contextual layer’s primary function is to help the architect to understand
 Business drivers are a vital part of this layer: they serve as initial input to establish Business Attributes and, consequently, the Business Risk Model. Leveraging the Business Risk Model, the security practitioner can, for instance, establish control objectives aligned to the business goals. To illustrate this concept, I wrote a paper that uses the methodology described by Sherwood et al. (2005) to create an example Business Risk Model for Target leveraging publicly available information to derive business drivers, requirements and impact, and potential vulnerabilities.
 
 **Paper:** [Target Corporation: A business risk model based on the 2013 data breach](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.Business_Risk_Model.Daniel_Cordeiro_Marques.pdf)
+
 _Note: This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives._
 
 ### Conceptual Security Architecture: The Architect's View
@@ -37,6 +40,7 @@ The logical layer uses the conceptual layer’s principles to identify security 
 To illustrate my understanding of the Logical Security Architecture, I developed a paper that describes a mock logical architecture for Equifax, based on the SABSA framework and publicly available information. Specifically, the work leverages Equifax’s 2019 annual report to establish risks and business drivers and the U. S. Government Accountability Office (GAO)’s report to derive a gap analysis.
 
 **Paper:** [Logical Security Architecture (Designer’s view): Equifax case study](http://danielcmarques.github.io/files/coursework/csol520/Assignment.CSOL520.FinalProject.Daniel_Cordeiro_Marques.pdf)
+
 _Note: This paper was developed for educational purposes only, based exclusively on publicly available information. It does not reflect the company's opinions, needs, or objectives._
 
 ### Physical Security Architecture: The Builder's View
