@@ -9,7 +9,11 @@ WIP.
 The complexity derived from defending a corporate environment while supporting business goals calls for a systematic approach. The Sherwood Applied Business Security Architecture (SABSA) methodology provides a model to approach the problem by breaking it into smaller parts and addressing security concerns from different stakeholders and viewpoints by using a layered strategy. Each layer of the SABSA architecture builds from information obtained from the other, starting with the business view provided by the contextual layer. Therefore, the model offers a framework that allows security architects to define controls focused on critical assets and aligned with business goals. Finally, the layered model lets leadership trace security decisions back to the original business drivers, reinforcing the security services as business enablers.
 
 ## The SABSA Architecture Model
-The SABSA architecture model consists of six layers, each approaching security from a different perspective.
+The SABSA architecture model consists of six layers, each approaching security from a different perspective (figure 1).
+
+**Figure 1.**
+_The SABSA® Model for Security Architecture Development (Sherwood et al., 2005)._
+<img src='/images/sabsa_model.png'>
 
 ### Contextual Security Architecture: The Business View
 The contextual layer’s primary function is to help the architect to understand business requirements that will drive the effective design that aligns with the business goals. This layer considers what assets are essential to the business and must be protected; why the company should cover these assets, and the objectives that will drive the security strategy; how the business operates, and which process will require security considerations; who is involved in the business operation, such as organizational structures and third parties; where is the business operating, and associated security aspects such as geographically dispersed offices and local laws; and the time requirements for security, including deadlines and time-to-market. Once the architects enumerate and understand the business requirements and context of security controls, they can create the overall security philosophy.
