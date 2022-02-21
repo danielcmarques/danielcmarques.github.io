@@ -19,10 +19,10 @@ The NIST RMF offers a well-defined and structured approach to safeguard the conf
 
 NIST provides extensive documentation and implementation guidance on the [Risk Management Framework website](https://csrc.nist.gov/projects/risk-management/about-rmf). Particularly, the [RMF for Systems and Organizations Introductory Course](https://csrc.nist.gov/Projects/risk-management/rmf-course) offers an introduction to risk management and an overview of the framework.
 
-## Applied Risk Management Exercise
-The following paper offers an overview of the RMF as applied to a payroll system case study, summarizing and exemplifying each step’s outputs. Finally, it provides a continuous monitoring strategy for the payroll system based on pre-existing policies, procedures, and software.
+## Applied Cyber Risk Management Exercise
+The following paper offers an overview of the RMF as applied to a payroll system case study, summarizing and exemplifying each step’s outputs. It also provides a continuous monitoring strategy for the payroll system based on pre-existing policies, procedures, and software.
 
-* _[Payroll System Case Study: Continuous Monitoring](http://danielcmarques.github.io/files/coursework/csol530/Assignment.CS530.Final_Project.Daniel_Cordeiro_Marques.pdf)_
+* _[Payroll System Case Study](http://danielcmarques.github.io/files/coursework/csol530/Assignment.CS530.Final_Project.Daniel_Cordeiro_Marques.pdf)_
 
 
 ## Reflection
