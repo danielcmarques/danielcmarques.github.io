@@ -26,8 +26,15 @@ The following paper offers an overview of the RMF as applied to a payroll system
 
 
 ## Reflection
-WIP.
+Part of our professional responsibility as cybersecurity practitioners is to ensure that our decisions reduce the organization’s risk exposure while helping them thrive. A Risk Management Framework such as the one proposed by NIST enables the alignment between business needs and cybersecurity requirements through a systematic approach, allowing us to efficiently allocate resources towards adequate controls. NIST’s seven-step methodology helps us build a cybersecurity strategy that ties back to the organization’s mission, addressing risks associated with relevant processes and assets according to their impact on the business. Therefore the RMF assists us in educating the executive leadership on adverse effects caused by threats and vulnerabilities, promoting their ability to support cybersecurity initiatives.
 
+In my current role as a Red Team Lead, understanding cybersecurity risks and communicating them to stakeholders is a vital part of my attributions. The RMF plays a central role in clearly conveying the right message to the senior leadership, driving the conversation towards risk reduction instead of single vulnerabilities.
+
+The Payroll System Case Study is an excellent example of how the RMF steps interact, particularly monitoring activities. It brings up the discussion of how far an organization can go to monitor employees’ activities and manage the privacy of the system’s users.
+
+Ethically, the NIST RMF lays out the foundation to establish the rules that the entire organization should follow to manage risk. Such interaction becomes evident during the first four steps, as they leverage the organization’s core details (its mission, strategy, roles, and responsibilities) to determine controls that align with the organization’s ethical standards. The last three steps complement these functions by continuously monitoring the control adherence and ensuring accountability if any deviations occur.
+
+In conclusion, as organizations should focus their cybersecurity strategy on mitigating risks to the business, practitioners must rely on a methodological program to direct investments towards what matters to the organization’s goals. The NIST RMF offers a structured approach to select controls and constantly verify their adoption. The benefit is clear: enabling business while mitigating risks, improving executive buy-in, and ensuring alignment with ethical standards.
 
 ## References  
 National Institute of Standards and Technology. (2012). _Guide for Conducting Risk Assessments_ [Special Publication (SP) 800-30] (Revision 1). U.S. Department of Commerce. [https://doi.org/10.6028/NIST.SP.800-30r1](https://doi.org/10.6028/NIST.SP.800-30r1)
