@@ -37,7 +37,7 @@ Organizations must understand how to allocate security resources according to sp
 
 The following paper illustrates a formalized classification policy by outlining the classification scheme and the requirements to safeguard assets and information according to their classification. The classification layers are based on the “Legal Classification Scheme” proposed by Johnson (2014).
 
-* _[Asset and Information Classification Policy](http://danielcmarques.github.io/files/coursework/csol540/CSOL540.Assignment.Classification_Policy.Daniel_Cordeiro_Marques.pdf)_
+* _[Asset and Information Classification Policy Summary](http://danielcmarques.github.io/files/coursework/csol540/CSOL540.Assignment.Classification_Policy.Daniel_Cordeiro_Marques.pdf)_
 
 ## Privacy Policies
 In general, people want their privacy to make their decisions, take actions, and speak freely. It is also their fundamental right; the Universal Declaration of Human Rights (The United Nations, 1948, art. 12) states that “no one shall be subjected to arbitrary interference with his privacy (...). Everyone has the right to the protection of the law against such interference or attacks.” Therefore, users must have the ability to decide how their information is collected, stored, and used.
@@ -62,8 +62,15 @@ Organizations develop policies to safeguard sensitive data to align with relevan
 * _[Implementation, Enforcement, and Compliance Summary Plan](http://danielcmarques.github.io/files/coursework/csol540/CSOL540.Assignment.Implementation_Enforcement_and_Compliance_Plan.Daniel_Cordeiro_Marques.pdf)_
 
 ## Reflection
-WIP.
+Security policies play a vital role in the organization’s operating model, as they represent the core principles driving its approach to managing cybersecurity risks. Our professional responsibility is to act according to these principles and ensure they align with business requirements and relevant laws and regulations. Understanding their impact on operations is paramount for a successful cybersecurity strategy with the increased demand associated with privacy legislation.
 
+Ethical considerations are also a critical part of security policies. For instance, an Incident Response Policy should outline the organization’s obligations towards their clients’ data if a breach occurs. Furthermore, looking at privacy from an ethics lens is also critical. Organizations’ must ensure they collect data only as needed to perform their activities and secure it according to relevant requirements.
+
+Assets and data must be safeguarded according to their impact on the organization’s operations, starting with formally classifying and labeling them. I selected the “Asset and Information Classification Policy Summary” assignment as it illustrates the core part of this process and is a crucial document to educate users on the organization’s expectations regarding handling information. Next, to illustrate privacy considerations, I selected the “Privacy Policy Summary” paper as it builds on top of the classification policy and applicable laws to outline the requirements while handling sensitive customer data.
+
+Particularly in heavily regulated industries, the impact of non-compliance with policies can be devastating. Once the organization establishes a comprehensive policy framework, it faces the challenge of operationalizing its principles and ensuring its expected performance. The “Implementation, Enforcement, and Compliance Summary Plan” assignment allowed me to round up the knowledge obtained while building a policy framework and practice a strategic thought process of implementing my approach.
+
+My current role covers primarily technical aspects of cybersecurity, so studying the process of building a policy framework helped solidify my skills from a strategic and tactic perspective. As I develop myself as a cybersecurity leader, I will immediately put this experience to use.    
 
 ## References  
 Andersen, H., & Hepburn, B. (2020). _Scientific Method_ (E. N. Zalta, Ed.; Winter 2020 Edition ed.). The Stanford Encyclopedia of Philosophy. [https://plato.stanford.edu/archives/win2020/entries/scientific-method/](https://plato.stanford.edu/archives/win2020/entries/scientific-method/)
