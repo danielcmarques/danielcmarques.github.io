@@ -50,11 +50,11 @@ WIP.
 WIP.
 
 ## References
-* Bernard, J., & Nicholson, M. (2020, July 27). _Reshaping the cybersecurity landscape: How digitization and the COVID-19 pandemic are accelerating cybersecurity needs at many large financial institutions_. https://www2.deloitte.com/us/en/insights/industry/financial-services/cybersecurity-maturity-financial-institutions-cyber-risk.html
-* Deloitte. (2020). _2020 Global Outsourcing Survey_. Deloitte Development LLC. https://www2.deloitte.com/us/en/pages/operations/articles/global-outsourcing-survey.html
-* Fruhlinger, J. (2021, April 1). _How the CISO role is evolving_. CSO. https://www.csoonline.com/article/3332026/what-is-a-ciso-responsibilities-and-requirements-for-this-vital-leadership-role.html
-* Kolochenko, I. (2015, December 1). _How to calculate ROI and justify your cybersecurity budget_. CSO. https://www.csoonline.com/article/3010007/how-to-calculate-roi-and-justify-your-cybersecurity-budget.html
-* Mihalcik, C. (2020, March 31). _Marriott discloses new data breach impacting 5.2 million guests_. CNET. https://www.cnet.com/news/marriott-discloses-new-data-breach-impacting-5-point-2-million-guests/
-* Ponemon Institute. (2020). _Cost of a Data Breach_. IBM Security. https://www.ibm.com/security/data-breach
-* Schneier, B. (2008, September 2). _Security ROI: Fact or Fiction?_. CSO. https://www.csoonline.com/article/2123096/security-roi--fact-or-fiction-.html
+* Bernard, J., & Nicholson, M. (2020, July 27). _Reshaping the cybersecurity landscape: How digitization and the COVID-19 pandemic are accelerating cybersecurity needs at many large financial institutions_. [https://www2.deloitte.com/us/en/insights/industry/financial-services/cybersecurity-maturity-financial-institutions-cyber-risk.html](https://www2.deloitte.com/us/en/insights/industry/financial-services/cybersecurity-maturity-financial-institutions-cyber-risk.html)
+* Deloitte. (2020). _2020 Global Outsourcing Survey_. Deloitte Development LLC. [https://www2.deloitte.com/us/en/pages/operations/articles/global-outsourcing-survey.html](https://www2.deloitte.com/us/en/pages/operations/articles/global-outsourcing-survey.html)
+* Fruhlinger, J. (2021, April 1). _How the CISO role is evolving_. CSO. [https://www.csoonline.com/article/3332026/what-is-a-ciso-responsibilities-and-requirements-for-this-vital-leadership-role.html](https://www.csoonline.com/article/3332026/what-is-a-ciso-responsibilities-and-requirements-for-this-vital-leadership-role.html)
+* Kolochenko, I. (2015, December 1). _How to calculate ROI and justify your cybersecurity budget_. CSO. [https://www.csoonline.com/article/3010007/how-to-calculate-roi-and-justify-your-cybersecurity-budget.html](https://www.csoonline.com/article/3010007/how-to-calculate-roi-and-justify-your-cybersecurity-budget.html)
+* Mihalcik, C. (2020, March 31). _Marriott discloses new data breach impacting 5.2 million guests_. CNET. [https://www.cnet.com/news/marriott-discloses-new-data-breach-impacting-5-point-2-million-guests/](https://www.cnet.com/news/marriott-discloses-new-data-breach-impacting-5-point-2-million-guests/)
+* Ponemon Institute. (2020). _Cost of a Data Breach_. IBM Security. [https://www.ibm.com/security/data-breach](https://www.ibm.com/security/data-breach)
+* Schneier, B. (2008, September 2). _Security ROI: Fact or Fiction?_. CSO. [https://www.csoonline.com/article/2123096/security-roi--fact-or-fiction-.html](https://www.csoonline.com/article/2123096/security-roi--fact-or-fiction-.html)
 * Touhill, G. J., & Touhill, C. J. (2014). _Cybersecurity for executives: A practical guide_. John Wiley & Sons.
