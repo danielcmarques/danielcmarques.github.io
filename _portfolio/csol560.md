@@ -13,7 +13,7 @@ Another aspect of the process is testing those design assumptions after the appl
 ## Sample Dynamic Application Security Testing (DAST) Report
 The following report illustrates a Dynamic Application Security Testing (DAST) on deliberately vulnerable web applications. The work outlines the methodology used to perform the test, selected vulnerabilities identified during the exercise, and recommendations for remediation.
 
-* _[WebGoat Dynamic Application Security Testing Report](http://danielcmarques.github.io/files/coursework/csol550/Assignment.CSOL560.WebGoat_DAST.Daniel_Cordeiro_Marques.pdf)_
+* _[WebGoat Dynamic Application Security Testing Report](http://danielcmarques.github.io/files/coursework/csol560/Assignment.CSOL560.WebGoat_DAST.Daniel_Cordeiro_Marques.pdf)_
 
 ## Reflection
 WIP.
