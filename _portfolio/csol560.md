@@ -16,7 +16,13 @@ The following report illustrates a Dynamic Application Security Testing (DAST) o
 * _[WebGoat Dynamic Application Security Testing Report](http://danielcmarques.github.io/files/coursework/csol560/Assignment.CSOL560.WebGoat_DAST.Daniel_Cordeiro_Marques.pdf)_
 
 ## Reflection
-WIP.
+Modern organizations rely heavily on software to achieve their business goals; some base their entire business model on complex applications that are publicly available and accessible to environments with varying levels of security. These applications are clear targets to threats: they handle sensitive data from a large userbase and are readily available anywhere. At the same time, software security is still overlooked for development speed and often lower costs, exposing the applications to a multitude of attacks that might lead to a security incident.
+
+As cyber security practitioners, we are responsible for recommending efficient and cost-effective solutions to safeguard applications and user data. Automation plays a vital role in addressing this issue, adding security into the early stages of the Software Development Lifecycle (SDLC) and reducing the cost of security defects happening later in the process. For instance, developers can employ Static Application Security Testing (SAST) tools to analyze the source code against pre-defined rulesets. Generally, these solutions can easily detect typical security flaws so developers can address them before application deployment.
+
+Although SAST tools can efficiently detect “low hanging fruit” vulnerabilities, they rarely identify business logic flaws that could lead to the compromise of sensitive data. To overcome that limitation, security professionals can perform Dynamic Application Security Testing (DAST) on an application after it is deployed, observing how it behaves when interacting with a real user. As DAST is usually performed in the production environment with actual data, ethical considerations are paramount when testing. The secure practitioner ensures that testing activities stay within scope, respect the user’s privacy, and promptly report all vulnerabilities.
+
+As a red team manager, the knowledge obtained during this course helps me develop better recommendations for my clients. Organizations frequently struggle to manage risk effectively, so providing cost-effective guidance to improve security during the application design and development while addressing relevant threats is a significant competitive advantage.
 
 ## References
 Axelrod, C. W. (2013). _Engineering safe and secure software systems (1st ed.)_. Artech House.
