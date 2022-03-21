@@ -22,7 +22,7 @@ The modern security executive is professionally responsible for creating a cultu
 
 We can look at the executive’s ethical responsibilities from the stakeholder angle: for instance, as Krishnan (2019) and Fruhlinger (2021) points out, the organization must protect its high-value assets without crossing the line of employee privacy; the clients, on the other hand, want to understand how the organization protects their information, and their use according to the business needs. In that case, the executive’s role is to ensure consistent organization alignment with the terms agreed with all parties.
 
-Therefore, the modern security executives must look beyond technological and compliance aspects; they must analyze the organization as a whole, communicating and addressing complex problems according to its needs.
+Therefore, the modern security executives must look beyond technological and compliance aspects; they must analyze the organization as a whole, communicating and addressing complex problems according to its needs. The Sample ISSP exemplifies the approach cyber security leaders should follow, building a strategy that focuses on addressing business-relevant threats and serves as an enabler to drive the organization forward.
 
 
 ## References
