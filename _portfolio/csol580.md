@@ -12,8 +12,6 @@ Cyberattacks continue to increase, and organization cannot defend themselves aga
 For the final project, we were tasked to develop a summary plan based on CTI. This CTI plan enumerates threats against USD and outlines controls that effectively mitigate risks associated with the University's operations. The plan also highlights lessons learned from past incidents associated with similar threats to draw recommendations to improve USD's cyber security posture. It proposes seven initiatives that should be performed in the next three to eighteen months, focused on preventing threats in the early stages of the attack, detecting their activities during the event, and minimizing the impact upon successful compromise.
 
 * _[Final Project: University of San Diego Cyber Threat Intelligence Plan Proposal (Paper)](http://danielcmarques.github.io/files/coursework/csol580/Assignment.CSOL580.Final_Project_CTI_Plan_Paper.Daniel_Cordeiro_Marques.pdf)_
-* _[Final Project: University of San Diego Cyber Threat Intelligence Plan Proposal (Presentation)](http://danielcmarques.github.io/files/coursework/csol580/Assignment.CSOL580.Final_Project_CTI_Plan_Presentation.Daniel_Cordeiro_Marques.pdf)_
-
 
 ## Reflection
 
