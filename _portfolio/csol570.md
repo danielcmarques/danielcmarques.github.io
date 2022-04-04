@@ -9,7 +9,6 @@ Many organizations have limited or no visibility of network traffic and assets i
 At the same time, we face many ethical considerations when establishing an effective monitoring strategy, such as evaluating data moving through the network and intercepting sensitive information. As cybersecurity practitioners, it is our professional responsibility to balance out risk management and privacy.
 
 ## Building A Network Visualization and Vulnerability Detection Lab
-
 A hands-on approach to cybersecurity learning can be very beneficial; for instance, Hess (2019) proposes that practical experiences are often more engaging and help students retain the content better.
 
 The following paper describes a study laboratory to practice typical network visualization and vulnerability detection activities, including developing two trade studies to select appropriate tools, the virtualized lab architecture, the security toolkit leverage during the exercises, and exploitation actions performed with the lab.
@@ -18,11 +17,15 @@ The following paper describes a study laboratory to practice typical network vis
 
 
 ## Reflection
+According to Dempsey et al. (2011), the continuous monitoring purpose is “to provide awareness of threats and vulnerabilities, visibility into organizational assets, and the effectiveness of deployed security controls”; therefore, understanding the environment and successfully identifying anomalies in the network is a critical part of the process. Furthermore, Network Visualization and Vulnerability Detection is an essential part of a healthy cybersecurity program. Without it, the program might lack the ability to pinpoint gaps in the control implementation proactively and, consequently, increase risk management complexity and decrease the effectiveness of potential investments in cybersecurity.
 
-WIP.
+While network visibility is essential to grasp the environment’s security posture, we face many ethical considerations when establishing an effective monitoring strategy. As cyber security professionals, we must consider the user’s and customer’s privacy when intercepting data through the network. We also have the professional responsibility of understanding how relevant privacy laws may impact our ability to monitor network traffic and detect threats to the organization.
+
+As cyber security practitioners, we have the professional and ethical responsibility to report vulnerabilities timely and with details to remediate them. When informing third parties of security issues, we should strive to follow a responsible disclosure policy that allows organizations enough time to understand and address the problem, minimizing the exposure to malicious actors. As a red team leader, such practices are vital for my day-to-day job; ensuring that I provide the stakeholders with a complete report with actionable recommendations is paramount to supporting effective security strategies.
+
+I shared the final project here, as it demonstrates the steps and challenges to building a virtual test lab that one could expand to resemble the many servers in the production environment. A laboratory is critical to test exploits and tools against a controlled setting before running them in a production environment. This environment could serve as a training ground or a simulated network to aid tool selection.
 
 ## References
-
 Barnett, P., & Hollenberger, J. (2021, April 1). The Importance of Network Inventories and Diagrams. SecureWorks. [https://www.secureworks.com/blog/the-importance-of-network-inventories-and-diagrams](https://www.secureworks.com/blog/the-importance-of-network-inventories-and-diagrams)
 
 Dempsey, K., Shah Chawla, N., Johnson, L., Johnston, R., Jones, A., Orebaugh, A., Scholl, M., & Stine, K. (2011). _Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations_ (SP 800-137 ed.). National Institute of Standards and Technology. [https://doi.org/10.6028/NIST.SP.800-137](https://doi.org/10.6028/NIST.SP.800-137)
