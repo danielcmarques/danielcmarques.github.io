@@ -19,9 +19,6 @@ This sample forensic examination report illustrates the steps to perform the ana
 
 * _[Final Project: Forensic Examination Report](http://danielcmarques.github.io/files/coursework/csol590/Assignment.CSOL590.Final_Project_Sample_Forensic_Examination_Report.Daniel_Cordeiro_Marques.pdf)_
 
-**Note:** Out of respect for the exercise’s creator, I modified the report to reflect a possible answer, although not the correct one. The contents still illustrate the proper process to identify the perpetrator in the expected format; therefore, the integrity of the assignment remains intact.
-{: .notice}
-
 ## Reflection
 With the increased number of incidents, the incident response function is one of the main attributions of any cyber security professional. Therefore, trust is the cornerstone of this attribution, as it requires transparency and clear communication of identified issues.
 
