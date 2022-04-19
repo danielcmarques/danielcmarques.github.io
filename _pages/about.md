@@ -15,6 +15,9 @@ I will keep this portfolio updated with my coursework, thoughts, papers, and tal
 ## Media Presentation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4-9xPjHZQKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<div class="youtube" id="4-9xPjHZQKM" style="width:500px; height:294px;"></div>
+<script type="text/javascript" src="https://codegena.com/assets/js/youtube-embed.js"></script>
+
 ## My research interests
 I have researched the topics of Public Key Infrastructures (PKI), web application security, and password cracking. My current research interests include:
 * Threat emulation (red teams and purple teams)
