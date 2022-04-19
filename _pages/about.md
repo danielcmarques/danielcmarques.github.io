@@ -12,6 +12,8 @@ Welcome! I am Daniel, a cybersecurity professional pursuing my M.Sc. at the [Uni
 
 I will keep this portfolio updated with my coursework, thoughts, papers, and talks. You can learn more about my work on [LinkedIn](https://www.linkedin.com/in/danielcmarques/). Please feel free use to the [contact form](https://danielcmarques.github.io/contact/) if you wish to get in touch with me. I will be happy to answer any questions you might have.  
 
+## Media Presentation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4-9xPjHZQKM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## My research interests
 I have researched the topics of Public Key Infrastructures (PKI), web application security, and password cracking. My current research interests include:

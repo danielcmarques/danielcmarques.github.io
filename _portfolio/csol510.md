@@ -9,7 +9,7 @@ Cryptography is the cornerstone of many modern systems, including cybersecurity 
 ## Developing Cryptographic Controls To Protect A Company
 The final project illustrates our efforts to recommend cryptographic controls for a hypothetical health insurance company. Companies in the health insurance industry are regulated by the Health Insurance Portability and Accountability Act of 1996 (HIPAA), which requires organizations to encrypt patient information at rest and in transit.
 
-* _[Final Project](http://danielcmarques.github.io/files/coursework/csol510/Assignment.CSOL510.Final_Project.Group8.pdf)_
+* _[Final Project](http://danielcmarques.github.io/files/coursework/csol510/Assignment.CS510.Final_Project.pdf)_
 
 ## Reflection
 With privacy laws and regulations becoming more widespread, executives turned to cryptography as the primary solution for security concerns. This typical misconception limits organizations’ ability to deploy efficient cybersecurity controls.  
