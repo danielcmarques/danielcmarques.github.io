@@ -3,7 +3,7 @@ title: "A Song of Hashes and Dumps: What I’ve learned from cracking .br passwo
 collection: talks
 type: "Talk"
 permalink: /talks/2014-11-25-passwords-blackhatsp
-venue: "Black Hat Regional Summit São Paulo"
+venue: "Black Hat Regional Summit São Paulo 2014"
 date: 2014-11-25
 location: "São Paulo, Brazil"
 ---
