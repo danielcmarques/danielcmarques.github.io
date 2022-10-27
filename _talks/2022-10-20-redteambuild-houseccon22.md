@@ -3,7 +3,7 @@ title: "The Red Teamer's Guide To Building A Program"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-10-20-redteambuild-houseccon22
-venue: "Black Hat Regional Summit São Paulo"
+venue: "HOU.SEC.CON 2022"
 date: 2022-10-20
 location: "Houston, USA"
 ---
