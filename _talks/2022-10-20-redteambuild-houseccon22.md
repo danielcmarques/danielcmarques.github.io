@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2022-10-20-redteambuild-houseccon22
 venue: "HOU.SEC.CON 2022"
 date: 2022-10-20
-location: "Houston, USA"
+location: "Houston, TX, USA"
 ---
 
 Organizations continue to build internal red teams and penetration testing programs to keep up with the latest threats. The challenge, however, becomes apparent in the first few months of deploying the program: executives want to know if it is cost-effective, the integration with other teams quickly becomes a nightmare, and talent acquisition and retention can be demanding.

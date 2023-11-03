@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/2014-11-25-passwords-blackhatsp
 venue: "Black Hat Regional Summit São Paulo 2014"
 date: 2014-11-25
-location: "São Paulo, Brazil"
+location: "São Paulo, SP, Brazil"
 ---
 
 During a security conference in 2013, a presenter claimed that using the Kali Linux’s RockYou wordlist and the Hashcat’s best64 rule attackers could crack 50% of passwords. This research contributes to the discussion by demonstrating how regionalization impacts the user’s password choices. Notably, it points out how wordlists based on local dictionaries will affect password recovery efficiency.

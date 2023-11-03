@@ -5,7 +5,7 @@ type: "Tutorial"
 permalink: /talks/2014-11-01-python-workshop-ersi-rj
 venue: "I Escola Regional de Sistemas de Informação do Rio de Janeiro (ERSI-RJ)"
 date: 2014-11-01
-location: "Rio de Janeiro, Brazil"
+location: "Rio de Janeiro, RJ, Brazil"
 ---
 This tutorial focused on developing custom tools and scripts to automate security analysis tasks. <i>Original title: "Python para Análises de Segurança"</i>.   
 
