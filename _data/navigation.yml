@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "CSOL Coursework"
-    url: /portfolio/
+#  - title: "CSOL Coursework"
+#    url: /portfolio/
 
-  - title: "Reference Link Library"
-    url: /references/
+#  - title: "Reference Link Library"
+#    url: /references/
 
   - title: "CV"
     url: https://www.linkedin.com/in/danielcmarques/
@@ -24,5 +24,5 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
 
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Teaching"
+    url: /teaching/

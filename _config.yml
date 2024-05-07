@@ -175,24 +175,24 @@ kramdown:
 
 # Collections
 collections:
-# #  teaching:
-#     output: true
-#     permalink: /:collection/:path/
+  teaching:
+     output: true
+     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+##  portfolio:
+#    output: true
+#    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
   advisories:
     output: true
     permalink: /:collection/:path/
-  references:
-    output: true
-    permalink: /:collection/:path/
+##  references:
+#    output: true
+#    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -214,15 +214,15 @@ defaults:
       layout: single
       author_profile: true
   # _teaching
-   - scope:
-       path: ""
-       type: teaching
-     values:
-       layout: single
-       author_profile: true
-       share: true
-       comments: true
-   _publications
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _publications
   - scope:
       path: ""
       type: publications
@@ -258,14 +258,14 @@ defaults:
       share: true
       comments: false
   # _references
-  - scope:
-      path: ""
-      type: references
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: false
+#  - scope:
+#      path: ""
+#      type: references
+#    values:
+#      layout: single
+#      author_profile: true
+#      share: true
+#      comments: false
 # Sass/SCSS
 sass:
   sass_dir: _sass
