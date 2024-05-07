@@ -14,6 +14,6 @@ This page is my academic portfolio with my coursework, thoughts, papers, and tal
 
 ## My research interests
 I have researched the topics of Public Key Infrastructures (PKI), web application security, and password cracking. My current research interests include:
-* Threat emulation (red teams and purple teams)
-* Malware reverse engineering
+* Offensive Security (penetration testing, red teams and purple teams)
+* Reverse engineering
 * Vulnerabilities in smart devices

@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Daniel C. Marques"
   avatar           : "bio-photo.png"
-  bio              : "MS candidate @ University of San Diego."
+  bio              : "Cybersecurity researcher"
   location         : "USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -213,16 +213,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
-  # _publications
+  # _teaching
+   - scope:
+       path: ""
+       type: teaching
+     values:
+       layout: single
+       author_profile: true
+       share: true
+       comments: true
+   _publications
   - scope:
       path: ""
       type: publications
@@ -232,14 +232,14 @@ defaults:
       share: true
       comments: false
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: false
+  # - scope:
+  #    path: ""
+  #    type: portfolio
+  #  values:
+  #    layout: single
+  #    author_profile: true
+  #    share: true
+  #    comment: false
   # _talks
   - scope:
       path: ""
