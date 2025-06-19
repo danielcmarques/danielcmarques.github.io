@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniel C. Marques"
 title_separator          : "-"
 name                     : &name "Daniel C. Marques"
-description              : &description "Cybersecurity researcher"
+description              : &description "MSc. Cybersecurity Operations"
 url                      : https://danielcmarques.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danielcmarques/danielcmarques.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Daniel C. Marques"
   avatar           : "bio-photo.png"
-  bio              : "Cybersecurity researcher"
+  bio              : "MSc. Cybersecurity Operations"
   location         : "USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

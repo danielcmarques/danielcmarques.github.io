@@ -18,11 +18,11 @@ main:
   - title: "Responsibly disclosed vulnerabilities"
     url: /advisories/
 
-  - title: "Contact me"
-    url: /contact/
-
   # - title: "Blog Posts"
   #   url: /year-archive/
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Contact me"
+    url: /contact/
