@@ -1,0 +1,18 @@
+---
+title: "Network Security"
+collection: teaching
+type: "Extension course"
+permalink: /teaching/2012-09-lpic-1
+venue: "Instituto Infnet, Network Engineering School"
+date: 2012-09-01
+location: "Rio de Janeiro, Brazil"
+---
+
+I developed and taught the "Network Security" postgraduate certificate course at [Instituto Infnet](https://www.infnet.edu.br) from 2013 to 2015. This course covered basic concepts of network security as well as the design and implementation of effective resilience strategies. The course covered the creation and implementation of backup policies and design of business continuity plans. 
+
+As part of this course, I covered topics related to compliance, risk, vulnerability management, information classification, and continuous service improvement programs. 
+
+The curriculum also included an introduction to cryptography, methods for assessing system security, and the development of incident response plans. Students also study key corporate defense technologies such as firewalls, intrusion detection and prevention systems (IDS/IPS), and security information and event management (SIEM). These topics included practical and hands on examples using Linux.
+
+
+I developed customized courseware to support the learning objectives of this class.
