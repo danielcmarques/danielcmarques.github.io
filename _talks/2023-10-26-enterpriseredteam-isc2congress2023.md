@@ -12,3 +12,4 @@ Organizations building internal red teams and penetration testing programs to ke
 
 ### Links: ######
 * [Original slides](https://speakerdeck.com/0xc0da/kickstart-your-enterprise-red-team)
+* [Video](https://events.isc2.org/p/s/kickstart-your-enterprise-red-team-5858)
